@@ -1,3 +1,4 @@
+#https://ftp.ncbi.nlm.nih.gov/genomes/HUMAN_MICROBIOM/Bacteria/Bacteroides_3_1_33FAA_uid38353/
 import re
 import sys
 import textwrap
