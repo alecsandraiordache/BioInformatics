@@ -1,0 +1,19 @@
+Assembly Time vs GC% — Notes
+--------------------------------
+
+NC_002549.1      GC%=41.07  Time=1.2 ms
+NC_026433.1      GC%=40.74  Time=2.0 ms
+MN908947.3       GC%=37.97  Time=0.9 ms
+NC_002058.3      GC%=46.34  Time=1.1 ms
+NC_004102.1      GC%=58.23  Time=1.1 ms
+NC_001498.1      GC%=47.43  Time=0.9 ms
+NC_001477.1      GC%=46.67  Time=1.0 ms
+NC_001542.1      GC%=45.10  Time=0.9 ms
+NC_002200.1      GC%=42.49  Time=0.9 ms
+NC_012532.1      GC%=50.94  Time=0.9 ms
+
+Differences explanation:
+Viruses with extreme GC% or longer genomes may take longer assembly times.
+Low coverage (relative to genome length) or repetitive regions increase overlap checks.
+GC-rich genomes have higher sequence diversity → faster overlap matching.
+AT-rich or repetitive genomes create ambiguous overlaps → slower assembly.
