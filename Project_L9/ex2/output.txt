@@ -1,0 +1,576 @@
+Virus genomes detected
+   MN908947.3.fasta
+   NC_001477.1.fasta
+   NC_001498.1.fasta
+   NC_001542.1.fasta
+   NC_002058.3.fasta
+   NC_002200.1.fasta
+   NC_002549.1.fasta
+   NC_004102.1.fasta
+   NC_012532.1.fasta
+   NC_026433.1.fasta
+
+Processing MN908947.3.fasta 
+Genome length: 29903 bp | Enzyme: EcoRI
+  Cuts: 9
+  Fragments: [10573, 5546, 3569, 2592, 2550, 2112, 1161, 1069, 448, 283]
+Genome length: 29903 bp | Enzyme: BamHI
+  Cuts: 1
+  Fragments: [25313, 4590]
+Genome length: 29903 bp | Enzyme: HindIII
+  Cuts: 18
+  Fragments: [5317, 4656, 2777, 2636, 1825, 1734, 1526, 1505, 1501, 1164, 987, 948, 894, 893, 815, 246, 245, 134, 100]
+Genome length: 29903 bp | Enzyme: TaqI
+  Cuts: 22
+  Fragments: [7588, 3402, 3259, 3190, 1759, 1488, 1472, 1279, 983, 951, 894, 792, 630, 450, 360, 343, 318, 282, 217, 150, 47, 43, 6]
+Genome length: 29903 bp | Enzyme: HaeIII
+  Cuts: 32
+  Fragments: [3059, 2921, 2916, 2678, 2358, 1700, 1173, 1159, 1147, 1118, 1081, 1066, 1005, 988, 851, 663, 493, 414, 388, 365, 352, 335, 254, 225, 209, 204, 177, 175, 166, 121, 102, 25, 15]
+
+Processing NC_001477.1.fasta 
+Genome length: 10735 bp | Enzyme: EcoRI
+  Cuts: 5
+  Fragments: [2586, 2004, 1757, 1662, 1430, 1296]
+Genome length: 10735 bp | Enzyme: BamHI
+  Cuts: 1
+  Fragments: [5957, 4778]
+Genome length: 10735 bp | Enzyme: HindIII
+  Cuts: 2
+  Fragments: [8647, 2044, 44]
+Genome length: 10735 bp | Enzyme: TaqI
+  Cuts: 16
+  Fragments: [3738, 1380, 1208, 1027, 554, 475, 470, 462, 377, 317, 233, 216, 86, 78, 62, 35, 17]
+Genome length: 10735 bp | Enzyme: HaeIII
+  Cuts: 41
+  Fragments: [1239, 741, 719, 633, 605, 493, 453, 425, 366, 363, 354, 340, 339, 314, 265, 264, 260, 216, 213, 190, 179, 164, 159, 156, 153, 141, 123, 116, 112, 95, 83, 77, 73, 59, 56, 42, 41, 27, 27, 23, 19, 18]
+
+Processing NC_001498.1.fasta 
+Genome length: 15894 bp | Enzyme: EcoRI
+  Cuts: 2
+  Fragments: [11511, 3972, 411]
+Genome length: 15894 bp | Enzyme: BamHI
+  Cuts: 3
+  Fragments: [8911, 4040, 2769, 174]
+Genome length: 15894 bp | Enzyme: HindIII
+  Cuts: 4
+  Fragments: [7037, 4475, 2419, 1051, 912]
+Genome length: 15894 bp | Enzyme: TaqI
+  Cuts: 40
+  Fragments: [1420, 1120, 1058, 957, 737, 679, 636, 622, 619, 589, 568, 544, 476, 457, 405, 398, 396, 394, 382, 375, 368, 321, 299, 289, 248, 203, 203, 197, 164, 156, 141, 105, 92, 81, 73, 45, 33, 29, 6, 5, 4]
+Genome length: 15894 bp | Enzyme: HaeIII
+  Cuts: 62
+  Fragments: [1108, 908, 895, 807, 802, 726, 664, 663, 614, 599, 540, 508, 459, 433, 361, 330, 319, 296, 279, 260, 241, 232, 212, 209, 205, 194, 175, 172, 166, 162, 154, 151, 146, 143, 140, 132, 132, 129, 111, 89, 83, 83, 82, 80, 79, 61, 58, 57, 50, 49, 48, 43, 38, 38, 36, 29, 24, 21, 20, 17, 11, 11, 10]
+
+Processing NC_001542.1.fasta 
+Genome length: 11932 bp | Enzyme: EcoRI
+  Cuts: 1
+  Fragments: [10820, 1112]
+Genome length: 11932 bp | Enzyme: BamHI
+  Cuts: 5
+  Fragments: [3942, 2869, 2230, 1774, 930, 187]
+Genome length: 11932 bp | Enzyme: HindIII
+  Cuts: 4
+  Fragments: [5129, 3402, 1939, 1351, 111]
+Genome length: 11932 bp | Enzyme: TaqI
+  Cuts: 34
+  Fragments: [1319, 1291, 966, 944, 845, 722, 583, 519, 491, 487, 442, 385, 379, 287, 274, 270, 185, 182, 146, 137, 136, 136, 110, 97, 89, 85, 78, 70, 70, 60, 54, 39, 21, 17, 16]
+Genome length: 11932 bp | Enzyme: HaeIII
+  Cuts: 29
+  Fragments: [1537, 1263, 879, 870, 800, 698, 689, 590, 563, 489, 381, 359, 356, 334, 334, 243, 241, 207, 186, 185, 168, 162, 101, 90, 85, 31, 27, 23, 23, 18]
+
+Processing NC_002058.3.fasta 
+Genome length: 7440 bp | Enzyme: EcoRI
+  Cuts: 0
+  Fragments: [7440]
+Genome length: 7440 bp | Enzyme: BamHI
+  Cuts: 4
+  Fragments: [2840, 2501, 1429, 450, 220]
+Genome length: 7440 bp | Enzyme: HindIII
+  Cuts: 2
+  Fragments: [6056, 924, 460]
+Genome length: 7440 bp | Enzyme: TaqI
+  Cuts: 17
+  Fragments: [1531, 732, 711, 607, 594, 593, 461, 409, 389, 313, 303, 244, 240, 135, 57, 53, 39, 29]
+Genome length: 7440 bp | Enzyme: HaeIII
+  Cuts: 19
+  Fragments: [1206, 1044, 873, 863, 691, 434, 335, 306, 283, 280, 179, 174, 166, 128, 123, 115, 80, 69, 56, 35]
+
+Processing NC_002200.1.fasta 
+Genome length: 15384 bp | Enzyme: EcoRI
+  Cuts: 7
+  Fragments: [6221, 2471, 2186, 1869, 1166, 931, 522, 18]
+Genome length: 15384 bp | Enzyme: BamHI
+  Cuts: 6
+  Fragments: [10960, 1567, 1017, 607, 603, 490, 140]
+Genome length: 15384 bp | Enzyme: HindIII
+  Cuts: 6
+  Fragments: [4699, 3456, 2338, 1955, 1122, 1089, 725]
+Genome length: 15384 bp | Enzyme: TaqI
+  Cuts: 52
+  Fragments: [1257, 896, 884, 765, 685, 630, 608, 603, 560, 526, 519, 504, 468, 455, 445, 425, 406, 362, 304, 291, 285, 209, 205, 192, 186, 184, 182, 175, 175, 165, 156, 146, 145, 138, 129, 129, 128, 108, 100, 82, 81, 78, 69, 60, 57, 53, 51, 45, 21, 20, 14, 12, 11]
+Genome length: 15384 bp | Enzyme: HaeIII
+  Cuts: 42
+  Fragments: [2273, 1401, 1087, 1076, 833, 833, 701, 618, 615, 481, 444, 425, 375, 367, 295, 258, 255, 235, 234, 229, 191, 179, 174, 171, 155, 154, 151, 148, 139, 122, 114, 103, 87, 82, 81, 65, 65, 49, 45, 36, 20, 13, 5]
+
+Processing NC_002549.1.fasta 
+Genome length: 18959 bp | Enzyme: EcoRI
+  Cuts: 4
+  Fragments: [7355, 6331, 3069, 2035, 169]
+Genome length: 18959 bp | Enzyme: BamHI
+  Cuts: 2
+  Fragments: [11041, 6599, 1319]
+Genome length: 18959 bp | Enzyme: HindIII
+  Cuts: 10
+  Fragments: [4765, 4458, 3202, 2681, 969, 810, 499, 475, 405, 365, 330]
+Genome length: 18959 bp | Enzyme: TaqI
+  Cuts: 44
+  Fragments: [1926, 1125, 1110, 1010, 962, 956, 942, 814, 798, 795, 668, 606, 556, 547, 529, 518, 457, 449, 415, 332, 321, 293, 280, 280, 279, 268, 243, 212, 207, 155, 130, 120, 114, 107, 66, 66, 64, 55, 47, 47, 34, 30, 18, 4, 4]
+Genome length: 18959 bp | Enzyme: HaeIII
+  Cuts: 37
+  Fragments: [2740, 2217, 2088, 1501, 1141, 777, 722, 687, 644, 603, 569, 519, 491, 482, 437, 425, 345, 305, 303, 231, 226, 222, 189, 186, 124, 112, 110, 95, 86, 80, 76, 73, 40, 34, 28, 20, 20, 11]
+
+Processing NC_004102.1.fasta 
+Genome length: 9646 bp | Enzyme: EcoRI
+  Cuts: 1
+  Fragments: [8205, 1441]
+Genome length: 9646 bp | Enzyme: BamHI
+  Cuts: 2
+  Fragments: [6172, 2117, 1357]
+Genome length: 9646 bp | Enzyme: HindIII
+  Cuts: 1
+  Fragments: [7861, 1785]
+Genome length: 9646 bp | Enzyme: TaqI
+  Cuts: 23
+  Fragments: [1497, 1217, 1136, 961, 953, 579, 515, 449, 387, 357, 297, 260, 194, 161, 150, 117, 81, 78, 68, 60, 42, 39, 37, 11]
+Genome length: 9646 bp | Enzyme: HaeIII
+  Cuts: 74
+  Fragments: [508, 483, 445, 435, 369, 353, 309, 298, 278, 246, 243, 237, 221, 201, 201, 185, 183, 169, 163, 141, 136, 135, 135, 132, 129, 125, 118, 118, 112, 111, 111, 107, 104, 104, 102, 98, 93, 93, 91, 90, 90, 88, 81, 81, 80, 79, 76, 75, 75, 74, 74, 70, 67, 65, 63, 61, 60, 59, 54, 53, 39, 39, 37, 33, 33, 20, 19, 18, 14, 12, 11, 11, 9, 7, 7]
+
+Processing NC_012532.1.fasta 
+Genome length: 10794 bp | Enzyme: EcoRI
+  Cuts: 2
+  Fragments: [4737, 4363, 1694]
+Genome length: 10794 bp | Enzyme: BamHI
+  Cuts: 2
+  Fragments: [10067, 592, 135]
+Genome length: 10794 bp | Enzyme: HindIII
+  Cuts: 3
+  Fragments: [7096, 1845, 1516, 337]
+Genome length: 10794 bp | Enzyme: TaqI
+  Cuts: 16
+  Fragments: [4033, 1416, 1118, 818, 631, 565, 504, 492, 298, 251, 227, 181, 80, 69, 68, 35, 8]
+Genome length: 10794 bp | Enzyme: HaeIII
+  Cuts: 58
+  Fragments: [629, 522, 511, 432, 412, 402, 387, 387, 377, 360, 351, 320, 297, 279, 276, 261, 249, 240, 231, 211, 210, 205, 189, 166, 166, 160, 151, 150, 139, 136, 128, 127, 127, 123, 121, 116, 106, 92, 91, 89, 86, 84, 84, 80, 77, 66, 63, 57, 52, 32, 31, 29, 26, 24, 22, 21, 17, 10, 7]
+
+Processing NC_026433.1.fasta 
+Genome length: 1701 bp | Enzyme: EcoRI
+  Cuts: 0
+  Fragments: [1701]
+Genome length: 1701 bp | Enzyme: BamHI
+  Cuts: 1
+  Fragments: [1471, 230]
+Genome length: 1701 bp | Enzyme: HindIII
+  Cuts: 1
+  Fragments: [1224, 477]
+Genome length: 1701 bp | Enzyme: TaqI
+  Cuts: 3
+  Fragments: [925, 343, 338, 95]
+Genome length: 1701 bp | Enzyme: HaeIII
+  Cuts: 4
+  Fragments: [656, 574, 420, 40, 11]
+
+Analyzing enzyme EcoRI
+Common bands: []
+Analyzing enzyme BamHI
+Common bands: []
+Analyzing enzyme HindIII
+Common bands: []
+Analyzing enzyme TaqI
+Common bands: []
+Analyzing enzyme HaeIII
+Common bands: []
+Virus genomes detected
+   MN908947.3.fasta
+   NC_001477.1.fasta
+   NC_001498.1.fasta
+   NC_001542.1.fasta
+   NC_002058.3.fasta
+   NC_002200.1.fasta
+   NC_002549.1.fasta
+   NC_004102.1.fasta
+   NC_012532.1.fasta
+   NC_026433.1.fasta
+
+Processing MN908947.3.fasta 
+Genome length: 29903 bp | Enzyme: EcoRI
+  Cuts: 9
+  Fragments: [10573, 5546, 3569, 2592, 2550, 2112, 1161, 1069, 448, 283]
+Genome length: 29903 bp | Enzyme: BamHI
+  Cuts: 1
+  Fragments: [25313, 4590]
+Genome length: 29903 bp | Enzyme: HindIII
+  Cuts: 18
+  Fragments: [5317, 4656, 2777, 2636, 1825, 1734, 1526, 1505, 1501, 1164, 987, 948, 894, 893, 815, 246, 245, 134, 100]
+Genome length: 29903 bp | Enzyme: TaqI
+  Cuts: 22
+  Fragments: [7588, 3402, 3259, 3190, 1759, 1488, 1472, 1279, 983, 951, 894, 792, 630, 450, 360, 343, 318, 282, 217, 150, 47, 43, 6]
+Genome length: 29903 bp | Enzyme: HaeIII
+  Cuts: 32
+  Fragments: [3059, 2921, 2916, 2678, 2358, 1700, 1173, 1159, 1147, 1118, 1081, 1066, 1005, 988, 851, 663, 493, 414, 388, 365, 352, 335, 254, 225, 209, 204, 177, 175, 166, 121, 102, 25, 15]
+
+Processing NC_001477.1.fasta 
+Genome length: 10735 bp | Enzyme: EcoRI
+  Cuts: 5
+  Fragments: [2586, 2004, 1757, 1662, 1430, 1296]
+Genome length: 10735 bp | Enzyme: BamHI
+  Cuts: 1
+  Fragments: [5957, 4778]
+Genome length: 10735 bp | Enzyme: HindIII
+  Cuts: 2
+  Fragments: [8647, 2044, 44]
+Genome length: 10735 bp | Enzyme: TaqI
+  Cuts: 16
+  Fragments: [3738, 1380, 1208, 1027, 554, 475, 470, 462, 377, 317, 233, 216, 86, 78, 62, 35, 17]
+Genome length: 10735 bp | Enzyme: HaeIII
+  Cuts: 41
+  Fragments: [1239, 741, 719, 633, 605, 493, 453, 425, 366, 363, 354, 340, 339, 314, 265, 264, 260, 216, 213, 190, 179, 164, 159, 156, 153, 141, 123, 116, 112, 95, 83, 77, 73, 59, 56, 42, 41, 27, 27, 23, 19, 18]
+
+Processing NC_001498.1.fasta 
+Genome length: 15894 bp | Enzyme: EcoRI
+  Cuts: 2
+  Fragments: [11511, 3972, 411]
+Genome length: 15894 bp | Enzyme: BamHI
+  Cuts: 3
+  Fragments: [8911, 4040, 2769, 174]
+Genome length: 15894 bp | Enzyme: HindIII
+  Cuts: 4
+  Fragments: [7037, 4475, 2419, 1051, 912]
+Genome length: 15894 bp | Enzyme: TaqI
+  Cuts: 40
+  Fragments: [1420, 1120, 1058, 957, 737, 679, 636, 622, 619, 589, 568, 544, 476, 457, 405, 398, 396, 394, 382, 375, 368, 321, 299, 289, 248, 203, 203, 197, 164, 156, 141, 105, 92, 81, 73, 45, 33, 29, 6, 5, 4]
+Genome length: 15894 bp | Enzyme: HaeIII
+  Cuts: 62
+  Fragments: [1108, 908, 895, 807, 802, 726, 664, 663, 614, 599, 540, 508, 459, 433, 361, 330, 319, 296, 279, 260, 241, 232, 212, 209, 205, 194, 175, 172, 166, 162, 154, 151, 146, 143, 140, 132, 132, 129, 111, 89, 83, 83, 82, 80, 79, 61, 58, 57, 50, 49, 48, 43, 38, 38, 36, 29, 24, 21, 20, 17, 11, 11, 10]
+
+Processing NC_001542.1.fasta 
+Genome length: 11932 bp | Enzyme: EcoRI
+  Cuts: 1
+  Fragments: [10820, 1112]
+Genome length: 11932 bp | Enzyme: BamHI
+  Cuts: 5
+  Fragments: [3942, 2869, 2230, 1774, 930, 187]
+Genome length: 11932 bp | Enzyme: HindIII
+  Cuts: 4
+  Fragments: [5129, 3402, 1939, 1351, 111]
+Genome length: 11932 bp | Enzyme: TaqI
+  Cuts: 34
+  Fragments: [1319, 1291, 966, 944, 845, 722, 583, 519, 491, 487, 442, 385, 379, 287, 274, 270, 185, 182, 146, 137, 136, 136, 110, 97, 89, 85, 78, 70, 70, 60, 54, 39, 21, 17, 16]
+Genome length: 11932 bp | Enzyme: HaeIII
+  Cuts: 29
+  Fragments: [1537, 1263, 879, 870, 800, 698, 689, 590, 563, 489, 381, 359, 356, 334, 334, 243, 241, 207, 186, 185, 168, 162, 101, 90, 85, 31, 27, 23, 23, 18]
+
+Processing NC_002058.3.fasta 
+Genome length: 7440 bp | Enzyme: EcoRI
+  Cuts: 0
+  Fragments: [7440]
+Genome length: 7440 bp | Enzyme: BamHI
+  Cuts: 4
+  Fragments: [2840, 2501, 1429, 450, 220]
+Genome length: 7440 bp | Enzyme: HindIII
+  Cuts: 2
+  Fragments: [6056, 924, 460]
+Genome length: 7440 bp | Enzyme: TaqI
+  Cuts: 17
+  Fragments: [1531, 732, 711, 607, 594, 593, 461, 409, 389, 313, 303, 244, 240, 135, 57, 53, 39, 29]
+Genome length: 7440 bp | Enzyme: HaeIII
+  Cuts: 19
+  Fragments: [1206, 1044, 873, 863, 691, 434, 335, 306, 283, 280, 179, 174, 166, 128, 123, 115, 80, 69, 56, 35]
+
+Processing NC_002200.1.fasta 
+Genome length: 15384 bp | Enzyme: EcoRI
+  Cuts: 7
+  Fragments: [6221, 2471, 2186, 1869, 1166, 931, 522, 18]
+Genome length: 15384 bp | Enzyme: BamHI
+  Cuts: 6
+  Fragments: [10960, 1567, 1017, 607, 603, 490, 140]
+Genome length: 15384 bp | Enzyme: HindIII
+  Cuts: 6
+  Fragments: [4699, 3456, 2338, 1955, 1122, 1089, 725]
+Genome length: 15384 bp | Enzyme: TaqI
+  Cuts: 52
+  Fragments: [1257, 896, 884, 765, 685, 630, 608, 603, 560, 526, 519, 504, 468, 455, 445, 425, 406, 362, 304, 291, 285, 209, 205, 192, 186, 184, 182, 175, 175, 165, 156, 146, 145, 138, 129, 129, 128, 108, 100, 82, 81, 78, 69, 60, 57, 53, 51, 45, 21, 20, 14, 12, 11]
+Genome length: 15384 bp | Enzyme: HaeIII
+  Cuts: 42
+  Fragments: [2273, 1401, 1087, 1076, 833, 833, 701, 618, 615, 481, 444, 425, 375, 367, 295, 258, 255, 235, 234, 229, 191, 179, 174, 171, 155, 154, 151, 148, 139, 122, 114, 103, 87, 82, 81, 65, 65, 49, 45, 36, 20, 13, 5]
+
+Processing NC_002549.1.fasta 
+Genome length: 18959 bp | Enzyme: EcoRI
+  Cuts: 4
+  Fragments: [7355, 6331, 3069, 2035, 169]
+Genome length: 18959 bp | Enzyme: BamHI
+  Cuts: 2
+  Fragments: [11041, 6599, 1319]
+Genome length: 18959 bp | Enzyme: HindIII
+  Cuts: 10
+  Fragments: [4765, 4458, 3202, 2681, 969, 810, 499, 475, 405, 365, 330]
+Genome length: 18959 bp | Enzyme: TaqI
+  Cuts: 44
+  Fragments: [1926, 1125, 1110, 1010, 962, 956, 942, 814, 798, 795, 668, 606, 556, 547, 529, 518, 457, 449, 415, 332, 321, 293, 280, 280, 279, 268, 243, 212, 207, 155, 130, 120, 114, 107, 66, 66, 64, 55, 47, 47, 34, 30, 18, 4, 4]
+Genome length: 18959 bp | Enzyme: HaeIII
+  Cuts: 37
+  Fragments: [2740, 2217, 2088, 1501, 1141, 777, 722, 687, 644, 603, 569, 519, 491, 482, 437, 425, 345, 305, 303, 231, 226, 222, 189, 186, 124, 112, 110, 95, 86, 80, 76, 73, 40, 34, 28, 20, 20, 11]
+
+Processing NC_004102.1.fasta 
+Genome length: 9646 bp | Enzyme: EcoRI
+  Cuts: 1
+  Fragments: [8205, 1441]
+Genome length: 9646 bp | Enzyme: BamHI
+  Cuts: 2
+  Fragments: [6172, 2117, 1357]
+Genome length: 9646 bp | Enzyme: HindIII
+  Cuts: 1
+  Fragments: [7861, 1785]
+Genome length: 9646 bp | Enzyme: TaqI
+  Cuts: 23
+  Fragments: [1497, 1217, 1136, 961, 953, 579, 515, 449, 387, 357, 297, 260, 194, 161, 150, 117, 81, 78, 68, 60, 42, 39, 37, 11]
+Genome length: 9646 bp | Enzyme: HaeIII
+  Cuts: 74
+  Fragments: [508, 483, 445, 435, 369, 353, 309, 298, 278, 246, 243, 237, 221, 201, 201, 185, 183, 169, 163, 141, 136, 135, 135, 132, 129, 125, 118, 118, 112, 111, 111, 107, 104, 104, 102, 98, 93, 93, 91, 90, 90, 88, 81, 81, 80, 79, 76, 75, 75, 74, 74, 70, 67, 65, 63, 61, 60, 59, 54, 53, 39, 39, 37, 33, 33, 20, 19, 18, 14, 12, 11, 11, 9, 7, 7]
+
+Processing NC_012532.1.fasta 
+Genome length: 10794 bp | Enzyme: EcoRI
+  Cuts: 2
+  Fragments: [4737, 4363, 1694]
+Genome length: 10794 bp | Enzyme: BamHI
+  Cuts: 2
+  Fragments: [10067, 592, 135]
+Genome length: 10794 bp | Enzyme: HindIII
+  Cuts: 3
+  Fragments: [7096, 1845, 1516, 337]
+Genome length: 10794 bp | Enzyme: TaqI
+  Cuts: 16
+  Fragments: [4033, 1416, 1118, 818, 631, 565, 504, 492, 298, 251, 227, 181, 80, 69, 68, 35, 8]
+Genome length: 10794 bp | Enzyme: HaeIII
+  Cuts: 58
+  Fragments: [629, 522, 511, 432, 412, 402, 387, 387, 377, 360, 351, 320, 297, 279, 276, 261, 249, 240, 231, 211, 210, 205, 189, 166, 166, 160, 151, 150, 139, 136, 128, 127, 127, 123, 121, 116, 106, 92, 91, 89, 86, 84, 84, 80, 77, 66, 63, 57, 52, 32, 31, 29, 26, 24, 22, 21, 17, 10, 7]
+
+Processing NC_026433.1.fasta 
+Genome length: 1701 bp | Enzyme: EcoRI
+  Cuts: 0
+  Fragments: [1701]
+Genome length: 1701 bp | Enzyme: BamHI
+  Cuts: 1
+  Fragments: [1471, 230]
+Genome length: 1701 bp | Enzyme: HindIII
+  Cuts: 1
+  Fragments: [1224, 477]
+Genome length: 1701 bp | Enzyme: TaqI
+  Cuts: 3
+  Fragments: [925, 343, 338, 95]
+Genome length: 1701 bp | Enzyme: HaeIII
+  Cuts: 4
+  Fragments: [656, 574, 420, 40, 11]
+
+Analyzing enzyme EcoRI
+Common bands: []
+Analyzing enzyme BamHI
+Common bands: []
+Analyzing enzyme HindIII
+Common bands: []
+Analyzing enzyme TaqI
+Common bands: []
+Analyzing enzyme HaeIII
+Common bands: []
+          Virus genomes detected
+   MN908947.3.fasta
+   NC_001477.1.fasta
+   NC_001498.1.fasta
+   NC_001542.1.fasta
+   NC_002058.3.fasta
+   NC_002200.1.fasta
+   NC_002549.1.fasta
+   NC_004102.1.fasta
+   NC_012532.1.fasta
+   NC_026433.1.fasta
+
+Processing MN908947.3.fasta 
+Genome length: 29903 bp | Enzyme: EcoRI
+  Cuts: 9
+  Fragments: [10573, 5546, 3569, 2592, 2550, 2112, 1161, 1069, 448, 283]
+Genome length: 29903 bp | Enzyme: BamHI
+  Cuts: 1
+  Fragments: [25313, 4590]
+Genome length: 29903 bp | Enzyme: HindIII
+  Cuts: 18
+  Fragments: [5317, 4656, 2777, 2636, 1825, 1734, 1526, 1505, 1501, 1164, 987, 948, 894, 893, 815, 246, 245, 134, 100]
+Genome length: 29903 bp | Enzyme: TaqI
+  Cuts: 22
+  Fragments: [7588, 3402, 3259, 3190, 1759, 1488, 1472, 1279, 983, 951, 894, 792, 630, 450, 360, 343, 318, 282, 217, 150, 47, 43, 6]
+Genome length: 29903 bp | Enzyme: HaeIII
+  Cuts: 32
+  Fragments: [3059, 2921, 2916, 2678, 2358, 1700, 1173, 1159, 1147, 1118, 1081, 1066, 1005, 988, 851, 663, 493, 414, 388, 365, 352, 335, 254, 225, 209, 204, 177, 175, 166, 121, 102, 25, 15]
+
+Processing NC_001477.1.fasta 
+Genome length: 10735 bp | Enzyme: EcoRI
+  Cuts: 5
+  Fragments: [2586, 2004, 1757, 1662, 1430, 1296]
+Genome length: 10735 bp | Enzyme: BamHI
+  Cuts: 1
+  Fragments: [5957, 4778]
+Genome length: 10735 bp | Enzyme: HindIII
+  Cuts: 2
+  Fragments: [8647, 2044, 44]
+Genome length: 10735 bp | Enzyme: TaqI
+  Cuts: 16
+  Fragments: [3738, 1380, 1208, 1027, 554, 475, 470, 462, 377, 317, 233, 216, 86, 78, 62, 35, 17]
+Genome length: 10735 bp | Enzyme: HaeIII
+  Cuts: 41
+  Fragments: [1239, 741, 719, 633, 605, 493, 453, 425, 366, 363, 354, 340, 339, 314, 265, 264, 260, 216, 213, 190, 179, 164, 159, 156, 153, 141, 123, 116, 112, 95, 83, 77, 73, 59, 56, 42, 41, 27, 27, 23, 19, 18]
+
+Processing NC_001498.1.fasta 
+Genome length: 15894 bp | Enzyme: EcoRI
+  Cuts: 2
+  Fragments: [11511, 3972, 411]
+Genome length: 15894 bp | Enzyme: BamHI
+  Cuts: 3
+  Fragments: [8911, 4040, 2769, 174]
+Genome length: 15894 bp | Enzyme: HindIII
+  Cuts: 4
+  Fragments: [7037, 4475, 2419, 1051, 912]
+Genome length: 15894 bp | Enzyme: TaqI
+  Cuts: 40
+  Fragments: [1420, 1120, 1058, 957, 737, 679, 636, 622, 619, 589, 568, 544, 476, 457, 405, 398, 396, 394, 382, 375, 368, 321, 299, 289, 248, 203, 203, 197, 164, 156, 141, 105, 92, 81, 73, 45, 33, 29, 6, 5, 4]
+Genome length: 15894 bp | Enzyme: HaeIII
+  Cuts: 62
+  Fragments: [1108, 908, 895, 807, 802, 726, 664, 663, 614, 599, 540, 508, 459, 433, 361, 330, 319, 296, 279, 260, 241, 232, 212, 209, 205, 194, 175, 172, 166, 162, 154, 151, 146, 143, 140, 132, 132, 129, 111, 89, 83, 83, 82, 80, 79, 61, 58, 57, 50, 49, 48, 43, 38, 38, 36, 29, 24, 21, 20, 17, 11, 11, 10]
+
+Processing NC_001542.1.fasta 
+Genome length: 11932 bp | Enzyme: EcoRI
+  Cuts: 1
+  Fragments: [10820, 1112]
+Genome length: 11932 bp | Enzyme: BamHI
+  Cuts: 5
+  Fragments: [3942, 2869, 2230, 1774, 930, 187]
+Genome length: 11932 bp | Enzyme: HindIII
+  Cuts: 4
+  Fragments: [5129, 3402, 1939, 1351, 111]
+Genome length: 11932 bp | Enzyme: TaqI
+  Cuts: 34
+  Fragments: [1319, 1291, 966, 944, 845, 722, 583, 519, 491, 487, 442, 385, 379, 287, 274, 270, 185, 182, 146, 137, 136, 136, 110, 97, 89, 85, 78, 70, 70, 60, 54, 39, 21, 17, 16]
+Genome length: 11932 bp | Enzyme: HaeIII
+  Cuts: 29
+  Fragments: [1537, 1263, 879, 870, 800, 698, 689, 590, 563, 489, 381, 359, 356, 334, 334, 243, 241, 207, 186, 185, 168, 162, 101, 90, 85, 31, 27, 23, 23, 18]
+
+Processing NC_002058.3.fasta 
+Genome length: 7440 bp | Enzyme: EcoRI
+  Cuts: 0
+  Fragments: [7440]
+Genome length: 7440 bp | Enzyme: BamHI
+  Cuts: 4
+  Fragments: [2840, 2501, 1429, 450, 220]
+Genome length: 7440 bp | Enzyme: HindIII
+  Cuts: 2
+  Fragments: [6056, 924, 460]
+Genome length: 7440 bp | Enzyme: TaqI
+  Cuts: 17
+  Fragments: [1531, 732, 711, 607, 594, 593, 461, 409, 389, 313, 303, 244, 240, 135, 57, 53, 39, 29]
+Genome length: 7440 bp | Enzyme: HaeIII
+  Cuts: 19
+  Fragments: [1206, 1044, 873, 863, 691, 434, 335, 306, 283, 280, 179, 174, 166, 128, 123, 115, 80, 69, 56, 35]
+
+Processing NC_002200.1.fasta 
+Genome length: 15384 bp | Enzyme: EcoRI
+  Cuts: 7
+  Fragments: [6221, 2471, 2186, 1869, 1166, 931, 522, 18]
+Genome length: 15384 bp | Enzyme: BamHI
+  Cuts: 6
+  Fragments: [10960, 1567, 1017, 607, 603, 490, 140]
+Genome length: 15384 bp | Enzyme: HindIII
+  Cuts: 6
+  Fragments: [4699, 3456, 2338, 1955, 1122, 1089, 725]
+Genome length: 15384 bp | Enzyme: TaqI
+  Cuts: 52
+  Fragments: [1257, 896, 884, 765, 685, 630, 608, 603, 560, 526, 519, 504, 468, 455, 445, 425, 406, 362, 304, 291, 285, 209, 205, 192, 186, 184, 182, 175, 175, 165, 156, 146, 145, 138, 129, 129, 128, 108, 100, 82, 81, 78, 69, 60, 57, 53, 51, 45, 21, 20, 14, 12, 11]
+Genome length: 15384 bp | Enzyme: HaeIII
+  Cuts: 42
+  Fragments: [2273, 1401, 1087, 1076, 833, 833, 701, 618, 615, 481, 444, 425, 375, 367, 295, 258, 255, 235, 234, 229, 191, 179, 174, 171, 155, 154, 151, 148, 139, 122, 114, 103, 87, 82, 81, 65, 65, 49, 45, 36, 20, 13, 5]
+
+Processing NC_002549.1.fasta 
+Genome length: 18959 bp | Enzyme: EcoRI
+  Cuts: 4
+  Fragments: [7355, 6331, 3069, 2035, 169]
+Genome length: 18959 bp | Enzyme: BamHI
+  Cuts: 2
+  Fragments: [11041, 6599, 1319]
+Genome length: 18959 bp | Enzyme: HindIII
+  Cuts: 10
+  Fragments: [4765, 4458, 3202, 2681, 969, 810, 499, 475, 405, 365, 330]
+Genome length: 18959 bp | Enzyme: TaqI
+  Cuts: 44
+  Fragments: [1926, 1125, 1110, 1010, 962, 956, 942, 814, 798, 795, 668, 606, 556, 547, 529, 518, 457, 449, 415, 332, 321, 293, 280, 280, 279, 268, 243, 212, 207, 155, 130, 120, 114, 107, 66, 66, 64, 55, 47, 47, 34, 30, 18, 4, 4]
+Genome length: 18959 bp | Enzyme: HaeIII
+  Cuts: 37
+  Fragments: [2740, 2217, 2088, 1501, 1141, 777, 722, 687, 644, 603, 569, 519, 491, 482, 437, 425, 345, 305, 303, 231, 226, 222, 189, 186, 124, 112, 110, 95, 86, 80, 76, 73, 40, 34, 28, 20, 20, 11]
+
+Processing NC_004102.1.fasta 
+Genome length: 9646 bp | Enzyme: EcoRI
+  Cuts: 1
+  Fragments: [8205, 1441]
+Genome length: 9646 bp | Enzyme: BamHI
+  Cuts: 2
+  Fragments: [6172, 2117, 1357]
+Genome length: 9646 bp | Enzyme: HindIII
+  Cuts: 1
+  Fragments: [7861, 1785]
+Genome length: 9646 bp | Enzyme: TaqI
+  Cuts: 23
+  Fragments: [1497, 1217, 1136, 961, 953, 579, 515, 449, 387, 357, 297, 260, 194, 161, 150, 117, 81, 78, 68, 60, 42, 39, 37, 11]
+Genome length: 9646 bp | Enzyme: HaeIII
+  Cuts: 74
+  Fragments: [508, 483, 445, 435, 369, 353, 309, 298, 278, 246, 243, 237, 221, 201, 201, 185, 183, 169, 163, 141, 136, 135, 135, 132, 129, 125, 118, 118, 112, 111, 111, 107, 104, 104, 102, 98, 93, 93, 91, 90, 90, 88, 81, 81, 80, 79, 76, 75, 75, 74, 74, 70, 67, 65, 63, 61, 60, 59, 54, 53, 39, 39, 37, 33, 33, 20, 19, 18, 14, 12, 11, 11, 9, 7, 7]
+
+Processing NC_012532.1.fasta 
+Genome length: 10794 bp | Enzyme: EcoRI
+  Cuts: 2
+  Fragments: [4737, 4363, 1694]
+Genome length: 10794 bp | Enzyme: BamHI
+  Cuts: 2
+  Fragments: [10067, 592, 135]
+Genome length: 10794 bp | Enzyme: HindIII
+  Cuts: 3
+  Fragments: [7096, 1845, 1516, 337]
+Genome length: 10794 bp | Enzyme: TaqI
+  Cuts: 16
+  Fragments: [4033, 1416, 1118, 818, 631, 565, 504, 492, 298, 251, 227, 181, 80, 69, 68, 35, 8]
+Genome length: 10794 bp | Enzyme: HaeIII
+  Cuts: 58
+  Fragments: [629, 522, 511, 432, 412, 402, 387, 387, 377, 360, 351, 320, 297, 279, 276, 261, 249, 240, 231, 211, 210, 205, 189, 166, 166, 160, 151, 150, 139, 136, 128, 127, 127, 123, 121, 116, 106, 92, 91, 89, 86, 84, 84, 80, 77, 66, 63, 57, 52, 32, 31, 29, 26, 24, 22, 21, 17, 10, 7]
+
+Processing NC_026433.1.fasta 
+Genome length: 1701 bp | Enzyme: EcoRI
+  Cuts: 0
+  Fragments: [1701]
+Genome length: 1701 bp | Enzyme: BamHI
+  Cuts: 1
+  Fragments: [1471, 230]
+Genome length: 1701 bp | Enzyme: HindIII
+  Cuts: 1
+  Fragments: [1224, 477]
+Genome length: 1701 bp | Enzyme: TaqI
+  Cuts: 3
+  Fragments: [925, 343, 338, 95]
+Genome length: 1701 bp | Enzyme: HaeIII
+  Cuts: 4
+  Fragments: [656, 574, 420, 40, 11]
+
+Analyzing enzyme EcoRI
+Common bands: []
+Analyzing enzyme BamHI
+Common bands: []
+Analyzing enzyme HindIII
+Common bands: []
+Analyzing enzyme TaqI
+Common bands: []
+Analyzing enzyme HaeIII
+Common bands: []
